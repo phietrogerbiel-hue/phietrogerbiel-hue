@@ -1,10 +1,10 @@
 # Phietro Gabriel Maduro Jaime
 
-> Desenvolvedor Back-end em Formação — Olá! Sou o Phietro. Atualmente, atuo como Aprendiz de TI no Grupo Click IP, onde desenvolvo minha base profissional lidando diariamente com a resolução de problemas técnicos, processos de tecnologia e suporte.
+> Desenvolvedor Back-end — Olá! Sou o Phietro. Tenho 17 anos e atualmente atuo como Aprendiz de TI no Grupo Click IP, onde desenvolvo minha experiência profissional atuando com suporte, resolução de problemas técnicos e processos de tecnologia.
 
-Paralelamente à minha rotina na empresa, sou apaixonado por tecnologia e estou focado em me tornar um Desenvolvedor Back-End. Venho construindo uma rotina consistente de estudos diários focado em criar soluções reais e eficientes.
+Paralelamente, venho me desenvolvendo como Desenvolvedor Back-End, com foco em Java e Node.js, aplicando meus conhecimentos na construção de projetos e soluções para problemas reais.
 
-Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em arquitetura Back-End e colaborando com soluções tecnológicas que gerem valor real.
+Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em arquitetura Back-End, APIs e desenvolvimento de aplicações, enquanto construo projetos cada vez mais completos e relevantes.
 
 ## 🛠️ Tech Stack
 
